@@ -1,0 +1,12 @@
+{
+    "ID":"8dc60356d87d436c93992ebae0a66c35",
+    "ActionKeyword":"bili",
+    "Name":"Bili",
+    "Description":"",
+    "Author":"Granvallen",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"http://github.com/granvallen/Wox.Plugin.bili",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"img/icon.png"
+}
