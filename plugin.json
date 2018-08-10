@@ -4,7 +4,7 @@
     "Name":"Bili",
     "Description":"",
     "Author":"Granvallen",
-    "Version":"1.0",
+    "Version":"1.0.0",
     "Language":"python",
     "Website":"http://github.com/granvallen/Wox.Plugin.bili",
     "ExecuteFileName":"main.py",
